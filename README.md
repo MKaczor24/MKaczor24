@@ -51,7 +51,7 @@
 ###
 
 <div align="center">
-  <p>Get to know me at <a href="mkaczor.me">mkaczor.me</a></p>
+  <p>Get to know me at <a href="https://mkaczor.me">mkaczor.me</a></p>
 </div>
 
 ###
