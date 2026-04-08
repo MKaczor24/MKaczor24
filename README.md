@@ -34,12 +34,6 @@
   <a href="https://www.linkedin.com/in/micha%C5%82-kaczor-8616863a4/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="kacz0rex" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="mk.kaczor24@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
@@ -51,7 +45,7 @@
 ###
 
 <div align="center">
-  <p>Get to know me at <a href="https://mkaczor.me">mkaczor.me</a></p>
+  <p>Get to know me at <a href="https://mkaczor.me" target="_blank">mkaczor.me</a></p>
 </div>
 
 ###
